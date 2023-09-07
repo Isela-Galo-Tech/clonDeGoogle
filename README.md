@@ -14,7 +14,6 @@ El clon de Google constará de las siguientes características:
 
 - **Barra de búsqueda**: Una barra de búsqueda funcional que imitará el comportamiento de búsqueda en tiempo real de Google.
 
-- **Resultados de búsqueda**: Mostrará una lista de resultados de búsqueda simulados.
 
 - **Botones y enlaces**: Los botones y enlaces en la página serán interactivos y redirigirán a páginas simuladas o mostrarán mensajes de alerta.
 
